@@ -1,0 +1,37 @@
+# DWM Keybindings Cheat Sheet
+
+## Apps
+`Mod+Space` – Rofi | `Mod+Return` – Terminal | `Mod+B` – Brave | `Mod+E` – Geany  
+`Mod+F` – Thunar | `Mod+G` – Steam | `Mod+M` – Thunderbird | `Mod+O` – OnlyOffice  
+`Mod+P` – CopyQ | `Mod+Print` – Flameshot (GUI)
+
+## Core DWM
+`Mod+Shift+B` – Toggle Bar | `Mod+X` – Kill Window | `Mod+V` – View Layout  
+`Mod+Shift+Return` – Zoom (Promote to Master)
+
+## Stack Navigation
+`Mod+↑/↓` – Focus Stack | `Mod+Shift+↑/↓` – Move in Stack  
+
+## Master Size
+`Mod+←/→` – Shrink/Grow Master Area
+
+## Layouts
+`Mod+H` – Tiled | `Mod+J` – Floating | `Mod+K` – Monocle | `Mod+L` – Cycle Layouts  
+`Mod+Tab` – Toggle Floating
+`Mod+Ctrl+Tab` – +Master | `Mod+Ctrl+Shift+Tab` – -Master
+
+## Monitors
+`Mod+, / .` – Focus Monitor | `Mod+Shift+, / .` – Send to Monitor
+
+## Gaps
+`Mod+- / =` – Adjust Gaps | `Mod+Shift+=` – Reset Gaps
+
+## Tags
+`Mod+[1-9]` – View Tag | `Mod+Shift+[1-9]` – Move to Tag  
+`Mod+0` – View All | `Mod+Shift+0` – Tag to All
+
+## Power
+`Mod+Shift+Esc` – Rofi Power Menu | `Mod+Ctrl+Shift+Esc` – Quit DWM
+
+## Volume
+`Mod+F12` – Vol + | `Mod+F11` – Vol - | `Mod+F10` – Mute
