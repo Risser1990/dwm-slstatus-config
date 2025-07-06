@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Disable screen blanking and power saving
+xset s off -dpms &
+  
+# Notification daemon
+dunst &
+
+# Start slstatus in the background
+slstatus &
