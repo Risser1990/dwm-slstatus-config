@@ -1,4 +1,5 @@
 # DWM Keybindings Cheat Sheet
+`Mod+shift+Space` - dmenu
 
 ## Apps
 `Mod+Space` – Rofi | `Mod+Return` – Terminal | `Mod+B` – Brave | `Mod+E` – Geany  
